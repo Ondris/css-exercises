@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.pinkbackground {
+    background-color: lch(83.58% 24.38 7.82);
+    font-size: 18px;
+    font-family: Verdana "DejaVu Sans" sans-serif;
+}
+
+.biggerFont{
+    font-size: 24px;
+}
+
+#number2{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#number4 {
+    background-color: #56d456;
+    font-weight: bold;
+}
